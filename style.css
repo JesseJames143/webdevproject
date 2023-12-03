@@ -1,0 +1,9 @@
+#viewpoint{
+    margin: auto;
+    border-radius: 5px;
+}
+
+div{
+    width: 100%;
+    text-align: center;
+}
